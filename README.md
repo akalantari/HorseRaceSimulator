@@ -1,8 +1,5 @@
 # Horse Race Simulator
 
-[![Build Status]
-[![Total Downloads]
-
 A simple horse race simulator built upon CakePHP3 Framework
 
 ## Installation
